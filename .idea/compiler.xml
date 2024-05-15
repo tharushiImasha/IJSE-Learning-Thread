@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Synchronized-Keyword" />
+        <module name="Introduction" />
+        <module name="Implement-Runnable-Interface" />
+        <module name="Join-IsAlive" />
+        <module name="Inter-Thread-Communication" />
+        <module name="ExtendTreadClass" />
+        <module name="Lambda-Expression" />
+        <module name="Thread-Priority" />
+        <module name="Thread-Pool" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
